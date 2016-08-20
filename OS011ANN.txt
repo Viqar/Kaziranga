@@ -1,0 +1,29 @@
+<<< Note: < ... > identifies areas that you need to customize.
+<<< "<<<" identify areas that you should delete before submitting.
+
+<CCCC> ERC<n.n> : <Course title>
+Main products addressed:  <include product names and versions, if not in title of course>
+Type of update:  
+  < ONE LINE DESCRIPTION OF THE UPDATE >
+<<< examples:
+Major content update to <Product> V9.3. <<< the course code remains the same.
+Minor update to correct typos throughout and clarify lab instructions in a few places. <<< the course code remains the same.
+Major content update to <Product> V10. The previous version of the product was taught in AB122G ERC3.1. <<< the course code  changed.
+New fastpath course - 2-day version of the 4-day AB123G ERC4.0. <<< new course
+New content to address <Product> V1.0. <<< new course
+<<< end of examples >>>
+
+<<< If applicable, identify where additional information can be found about the update.  
+Example: See the UPD.txt file for details about the latest update. 
+<<< end of example >>>
+
+Course description: See the ibm.com/training website or your catalog source.
+
+Kitting instructions: See the packaging file (PKG.txt).
+
+Instructors: View the Instructor Preparation Guide to prepare to teach this content.
+
+<<< Individual brands can share additional locations where information that they are providing can be found >>>
+<<< Example: See the Abstract.doc file for marketing and sales information about this course.
+
+
